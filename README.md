@@ -108,16 +108,20 @@ nanocomposite"</a>
     - K-means elbow method
     
 - ### [Session 12](https://github.com/ElliotOne/VIP-Machine-Learning-Course/tree/master/MLCourse/12.Projects)
-    - 1.Bike-Sharing-Demand(Regression) (<a href="https://www.kaggle.com/competitions/bike-sharing-demand/data">browse dataset</a>)
-    - 2.Titanic(Classification) (<a href="https://www.kaggle.com/competitions/titanic/data">browse dataset</a>)
-    - 3.Market-Basket-Analysis(Clustering) (<a href="https://www.kaggle.com/datasets/shwetabh123/mall-customers">browse dataset</a>)
-    - 4.Covid-Vaccination(Regression) (<a href="https://www.kaggle.com/datasets/gpreda/covid-world-vaccination-progress">browse dataset</a>)
-    - 5.Ch
+    - 1.Bike Sharing Demand(Regression) (<a href="https://www.kaggle.com/competitions/bike-sharing-demand/data">browse dataset</a>)(<a href="https://github.com/ElliotOne/VIP-Machine-Learning-Course/blob/master/MLCourse/12.Projects/1.Bike-Sharing-Demand(Regression)/project1.ipynb">project</a>)
+    - 2.Titanic(Classification) (<a href="https://www.kaggle.com/competitions/titanic/data">browse dataset</a>)(<a href="https://github.com/ElliotOne/VIP-Machine-Learning-Course/blob/master/MLCourse/12.Projects/2.Titanic(Classification)/project2.ipynb">project</a>)
+    - 3.Market-Basket-Analysis(Clustering) (<a href="https://www.kaggle.com/datasets/shwetabh123/mall-customers">browse dataset</a>)(<a href="https://github.com/ElliotOne/VIP-Machine-Learning-Course/blob/master/MLCourse/12.Projects/3.Market-Basket-Analysis(Clustering)/project3.ipynb">project</a>)
+    - 4.Covid-Vaccination(Regression) (<a href="https://www.kaggle.com/datasets/gpreda/covid-world-vaccination-progress">browse dataset</a>)(<a href="https://github.com/ElliotOne/VIP-Machine-Learning-Course/blob/master/MLCourse/12.Projects/4.Covid-Vaccination(Regression)/project4.ipynb">project</a>)
+    - 5.Churn Modeling(Classification) (<a href="https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling/data">browse dataset</a>)(<a href="https://github.com/ElliotOne/VIP-Machine-Learning-Course/blob/master/MLCourse/12.Projects/5.Churn-Modeling(Classification)/project5.ipynb">project</a>)
 - ### [Session 13](https://github.com/ElliotOne/VIP-Machine-Learning-Course/tree/master/MLCourse/13.Essays)
     - [International Conference Paper Implementation Sample 1](https://github.com/ElliotOne/VIP-Machine-Learning-Course/tree/master/MLCourse/13.Essays/1.InternationalConference/1.AL_C)
     - [International Conference Paper Implementation Sample 2](https://github.com/ElliotOne/VIP-Machine-Learning-Course/tree/master/MLCourse/13.Essays/1.InternationalConference/2.FML)
     - [ISI Article Implementation Sample 1](https://github.com/ElliotOne/VIP-Machine-Learning-Course/tree/master/MLCourse/13.Essays/2.ISI/1.AL-CNT-SiNT)
     - [ISI Article Implementation Sample 2](https://github.com/ElliotOne/VIP-Machine-Learning-Course/tree/master/MLCourse/13.Essays/2.ISI/2.Al-Cu)
+
+- ### [Session 14](https://github.com/ElliotOne/VIP-Machine-Learning-Course/tree/master/MLCourse/14.Bonus-Projects)
+    - 1.Bonus Project: Coronavirus Tweets(Classification + NLP) (<a href="https://www.kaggle.com/datasets/datatattle/covid-19-nlp-text-classification/data">browse dataset</a>)(<a href="https://github.com/ElliotOne/VIP-Machine-Learning-Course/blob/master/MLCourse/14.Bonus-Projects/Coronavirus-Tweets-Classification/corona_tweets.ipynb">project</a>)
+    - 2.Bonus Project: Handwrite Digit Recognition(Classification + CNN) (<a href="https://github.com/ElliotOne/VIP-Machine-Learning-Course/blob/master/MLCourse/14.Bonus-Projects/Handwrite-Recognition-CNN/handwrite_recognition.ipynb">project</a>)
 
 ## Python Course Content
 
